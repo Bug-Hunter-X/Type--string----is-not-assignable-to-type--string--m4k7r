@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript bug and its solution. The bug demonstrates a common type error: passing an array to a function expecting a string. The solution shows how to properly type the function parameters and handle the array input.
